@@ -36,10 +36,10 @@
 <!-- /Guestbook -->
 
 <br />
-<img height="50" width="100%" alt="Thanks for stopping by, keep in touch!" src="images/marquee.svg" />
-<br />
+<img width="640" alt="Thanks for stopping by, keep in touch!" src="images/marquee.svg" />
+<br /><br />
 
-<img src="images/badge_apple.svg" alt="Made on Apple" height="40" />&nbsp;&nbsp;
-<img src="images/badge_sandiego.svg" alt="Hosted in San Diego" height="40" />&nbsp;&nbsp;
+<a href="https://shawnidea.com/work"><img src="images/badge_apple.svg" alt="Made on Apple: see my work" height="40" /></a>&nbsp;&nbsp;
+<a href="https://shawnidea.com/photos"><img src="images/badge_sandiego.svg" alt="Hosted in San Diego: see my photos" height="40" /></a>&nbsp;&nbsp;
 <a href="mailto:shawn.jx.cai@gmail.com"><img src="images/badge_email.svg" alt="Contact me: email" height="40" /></a>
 </div>
