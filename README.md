@@ -31,7 +31,7 @@
 <!-- Guestbook -->
 <table>
 <tr><th>Name</th><th>Date</th><th>Message</th></tr>
-<tr><td><a href="https://github.com/ShawnCai223">ShawnCai223</a></td><td>–</td><td>Be the first to sign!</td></tr>
+<tr><td><a href="https://github.com/ShawnCai223"><img width="24" src="https://avatars.githubusercontent.com/u/93627186?s=24&u=11d3b0709bcf9bfa803fed60a09ad2da8131d56c&v=4" alt="ShawnCai223" /> ShawnCai223</a></td><td>11/13/2026</td><td>Hi there!</td></tr>
 </table>
 <!-- /Guestbook -->
 
