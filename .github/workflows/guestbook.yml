@@ -6,6 +6,7 @@ name: Guestbook
 on:
   issue_comment:
     types: [created, edited, deleted]
+  workflow_dispatch:   # lets you run it by hand from the Actions tab
 
 permissions:
   contents: write
@@ -13,7 +14,7 @@ permissions:
 jobs:
   update_guestbook:
     name: Update guestbook
-    if: ${{ github.event.issue.title == 'Guestbook' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.issue.title == 'Guestbook' }}
     runs-on: ubuntu-latest
 
     steps:
@@ -41,10 +42,20 @@ jobs:
                 }
               }
             }`;
+            // Comment events carry the issue; manual runs look it up by title.
+            let issueNumber = context.payload.issue && context.payload.issue.number;
+            if (!issueNumber) {
+              const issues = await github.paginate(github.rest.issues.listForRepo, {
+                owner: context.repo.owner, repo: context.repo.repo, state: "all", per_page: 100,
+              });
+              const gb = issues.find((i) => !i.pull_request && i.title === "Guestbook");
+              if (!gb) { core.setFailed('No issue titled "Guestbook" found'); return; }
+              issueNumber = gb.number;
+            }
             const result = await github.graphql(query, {
               owner: context.repo.owner,
               name: context.repo.repo,
-              issue_number: context.issue.number,
+              issue_number: issueNumber,
             });
 
             const comments = result.repository.issue.comments.nodes.filter((c) => c.author).reverse();

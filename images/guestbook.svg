@@ -6,10 +6,9 @@
           width: 420px; height: 56px;
           display: flex; align-items: center; justify-content: center;
           font-family: "Comic Sans MS", "Comic Sans", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, cursive, sans-serif;
-          font-size: 22px;
+          font-size: 20px;
         }
-        .pulse { animation: pulse 2.5s ease-in-out infinite; white-space: nowrap; }
-        @keyframes pulse { 0%,100% { transform: scale(0.8); } 50% { transform: scale(1); } }
+        .pulse { white-space: nowrap; }
         .r { color: #ff004c; } .o { color: #ff9900; } .y { color: #e6c800; }
         .g { color: #33cc33; } .b { color: #2299ff; } .v { color: #aa44ff; }
         @media (prefers-color-scheme: light) { .y { color: #d4a000; } .g { color: #1a9e1a; } }
