@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "id": "zh",
+      "title": "🏮 华语",
+      "songs": [
+        { "title": "等等", "artist": "王菲" },
+        { "title": "臉", "artist": "王菲" },
+        { "title": "花的姿態", "artist": "陳綺貞" },
+        { "title": "像风一样自由", "artist": "许巍" },
+        { "title": "故鄉", "artist": "許巍" },
+        { "title": "私奔", "artist": "鄭鈞" },
+        { "title": "程艾影", "artist": "赵雷" },
+        { "title": "风犬少年的天空", "artist": "旅行团乐队" },
+        { "title": "日落", "artist": "孫燕姿" },
+        { "title": "不安小姐", "artist": "徐佳瑩" },
+        { "title": "一二三", "artist": "田馥甄" },
+        { "title": "龍捲風", "artist": "G.E.M. 鄧紫棋" },
+        { "title": "思凡", "artist": "林宥嘉" },
+        { "title": "海浪", "artist": "deca joins" },
+        { "title": "誰", "artist": "蔡健雅" },
+        { "title": "現在那邊是幾點", "artist": "黃小琥" },
+        { "title": "月光", "artist": "李健" },
+        { "title": "意外", "artist": "薛之谦" }
+      ]
+    },
+    {
+      "id": "en",
+      "title": "🌎 English",
+      "songs": [
+        { "title": "Runaway", "artist": "Kanye West" },
+        { "title": "Ode To My Family", "artist": "The Cranberries" },
+        { "title": "Where Is My Mind?", "artist": "Pixies" },
+        { "title": "Blinding Lights", "artist": "The Weeknd" },
+        { "title": "Heat Waves", "artist": "Glass Animals" },
+        { "title": "ocean eyes", "artist": "Billie Eilish" },
+        { "title": "The Fate of Ophelia", "artist": "Taylor Swift" },
+        { "title": "Style", "artist": "Taylor Swift" },
+        { "title": "Vultures", "artist": "John Mayer" },
+        { "title": "I Know The End", "artist": "Phoebe Bridgers" },
+        { "title": "Chateau", "artist": "Angus & Julia Stone" },
+        { "title": "Replica", "artist": "The xx" },
+        { "title": "As It Was", "artist": "Harry Styles" },
+        { "title": "HOT TO GO!", "artist": "Chappell Roan" },
+        { "title": "Dancing Queen", "artist": "ABBA" },
+        { "title": "Wake Me Up When September Ends", "artist": "Scala & Kolacny Brothers" }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "🌏 World",
+      "songs": [
+        { "title": "Liekkas", "artist": "Sofia Jannok" },
+        { "title": "여행", "artist": "볼빨간사춘기" },
+        { "title": "Unravel", "artist": "TK from 凛として時雨" },
+        { "title": "SPIRAL", "artist": "She Her Her Hers" },
+        { "title": "RIDE", "artist": "HYBS" },
+        { "title": "DtMF", "artist": "Bad Bunny" }
+      ]
+    }
+  ]
+}

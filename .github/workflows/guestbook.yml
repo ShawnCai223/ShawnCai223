@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
 jobs:
   update_guestbook:
     name: Update guestbook
@@ -84,4 +88,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git diff --quiet && echo "No changes" && exit 0
           git commit -am "✨ update guestbook"
+          git pull --rebase
           git push

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 40" width="200" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff3b3b"/><stop offset="1" stop-color="#d40000"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="3" width="198" height="36" rx="18" fill="#7a0000"/>
+  <rect x="1" y="1" width="198" height="36" rx="18" fill="url(#red)"/>
+  <rect x="4" y="3" width="192" height="14" rx="7" fill="#ffffff" opacity="0.18"/>
+  <g transform="translate(30 19)">
+    <circle r="11" fill="#ffffff"/>
+    <path d="M-3.5,-6 L6.5,0 L-3.5,6 Z" fill="#d40000">
+      <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="115" y="24" text-anchor="middle" textLength="128" lengthAdjust="spacingAndGlyphs"
+        font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="800" fill="#ffffff">Play on YouTube</text>
+</svg>

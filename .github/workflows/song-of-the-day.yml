@@ -1,0 +1,50 @@
+# Picks a random "song of the day" from music/songs.json at noon Pacific time,
+# updates playlist.md and the "Today" link on the profile README.
+
+name: Song of the day
+
+on:
+  schedule:
+    # GitHub cron is UTC. 19:00 and 20:00 UTC cover noon Pacific in both
+    # daylight and standard time; the script skips the run that isn't noon.
+    - cron: "0 19 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch:   # "Run workflow" button: pick a new song right now
+  push:
+    branches: [main]
+    paths: ["music/songs.json"]   # edited the list? rebuild the page
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pick song of the day
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python .github/scripts/song_of_the_day.py
+          else
+            python .github/scripts/song_of_the_day.py --force
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.md README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "🎵 song of the day"
+          git pull --rebase
+          git push

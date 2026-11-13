@@ -8,16 +8,16 @@
 
 <table width="100%" align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://shawnidea.com"><strong>📝 My Web</strong><br /><br />
 <img alt="Spinning globe" height="80" src="images/globe.svg" /></a>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://pixelbluellc.com"><strong>🏢 My Org</strong><br /><br />
 <img alt="Blue pixels" height="80" src="images/pixels.svg" /></a>
 </td>
-<td align="center" width="33%">
-<a href="playlist.md"><strong>🎧 My List</strong><br /><br />
+<td align="center" valign="top" width="33%">
+<a href="https://www.youtube.com/results?search_query=%E9%BE%8D%E6%8D%B2%E9%A2%A8+G.E.M.+%E9%84%A7%E7%B4%AB%E6%A3%8B"><strong>🎧 My List</strong><br /><br />
 <img alt="Spinning record" height="80" src="images/vinyl.svg" /></a>
 </td>
 </tr>
