@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 100" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sea" cx="35%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#7fd4ff"/>
+      <stop offset="1" stop-color="#0044aa"/>
+    </radialGradient>
+    <clipPath id="ball"><circle cx="50" cy="50" r="40"/></clipPath>
+  </defs>
+  <circle cx="50" cy="50" r="40" fill="url(#sea)"/>
+  <g clip-path="url(#ball)" fill="#33cc55" opacity="0.9">
+    <g>
+      <!-- simple blob "continents", drawn twice side by side so the loop is seamless -->
+      <path d="M10,30 q10,-10 20,0 q5,10 -5,15 q-10,5 -15,-5 z M35,55 q12,-6 18,4 q2,12 -10,14 q-10,-2 -8,-18 z M60,25 q8,-6 14,2 q-2,8 -10,8 q-6,-2 -4,-10 z M65,60 q10,0 12,8 q-4,8 -12,4 z"/>
+      <path transform="translate(80 0)" d="M10,30 q10,-10 20,0 q5,10 -5,15 q-10,5 -15,-5 z M35,55 q12,-6 18,4 q2,12 -10,14 q-10,-2 -8,-18 z M60,25 q8,-6 14,2 q-2,8 -10,8 q-6,-2 -4,-10 z M65,60 q10,0 12,8 q-4,8 -12,4 z"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-80 0" dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="1">
+    <ellipse cx="50" cy="50" rx="40" ry="14"/>
+    <line x1="10" y1="50" x2="90" y2="50"/>
+    <ellipse cx="50" cy="50" rx="20" ry="40">
+      <animate attributeName="rx" values="40;0;40" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="50" cy="50" rx="0" ry="40">
+      <animate attributeName="rx" values="0;40;0" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#001a44" stroke-width="2"/>
+  <ellipse cx="36" cy="32" rx="10" ry="6" fill="#ffffff" opacity="0.35"/>
+</svg>

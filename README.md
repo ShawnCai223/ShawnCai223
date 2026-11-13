@@ -1,13 +1,45 @@
-### Hi, I'm Shawn 👋
+<div align="center">
+  <img src="images/welcome.svg" width="100%" alt="Hi, I'm Shawn!" />
+  <br /><br />
+  <img height="44" alt="These days I'm into Java, Python and Swift" src="images/personal_note.svg" />
+  <br />
+  <strong>Software engineer &amp; life blogger.</strong> I build apps, and write about everything else.
+</div>
 
-Software engineer in San Diego. I build apps for iPhone and Mac, and full-stack things for the web.
-M.S. Computer Engineering, UC San Diego. Currently looking for a full-time software engineering role.
+<table width="100%" align="center">
+<tr>
+<td align="center" width="33%">
+<a href="https://shawnidea.com"><strong>📝 My Web</strong><br /><br />
+<img alt="Spinning globe" height="80" src="images/globe.svg" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://pixelbluellc.com"><strong>🏢 My Org</strong><br /><br />
+<img alt="Blue pixels" height="80" src="images/pixels.svg" /></a>
+</td>
+<td align="center" width="33%">
+<a href="playlist.md"><strong>🎧 My List</strong><br /><br />
+<img alt="Spinning record" height="80" src="images/vinyl.svg" /></a>
+</td>
+</tr>
+</table>
 
-- 📱 **[Prec](https://apps.apple.com/us/app/prec/id6771575207)** — reusable preparation checklists for iPhone and iPad. Designed and built solo, on the App Store.
-- 🖥️ **TandemDock** — the macOS Dock on every external display. Coming soon from [Pixel Blue](https://pixelbluellc.com).
-- ✍️ I write short notes at **[shawnidea.com](https://shawnidea.com)**.
+<div align="center">
+<br />
+<a href="https://github.com/ShawnCai223/ShawnCai223/issues/1"><img src="images/guestbook.svg" alt="Sign my guestbook" /></a>
+<br />
 
-**Languages:** Java · Python · TypeScript · Swift · C/C++ · Go · SQL
-**Tools:** Spring Boot · SwiftUI · PostgreSQL · Redis · AWS · Docker · GitHub Actions
+<!-- Guestbook -->
+<table>
+<tr><th>Name</th><th>Date</th><th>Message</th></tr>
+<tr><td><a href="https://github.com/ShawnCai223">ShawnCai223</a></td><td>–</td><td>Be the first to sign!</td></tr>
+</table>
+<!-- /Guestbook -->
 
-[Website](https://shawnidea.com) · [LinkedIn](https://www.linkedin.com/in/jianxiao-shawn-cai) · [Email](mailto:hi@shawnidea.com) · [Résumé](https://shawnidea.com/Resume.pdf)
+<br />
+<img height="50" width="100%" alt="Thanks for stopping by, keep in touch!" src="images/marquee.svg" />
+<br />
+
+<img src="images/badge_apple.svg" alt="Made on Apple" height="40" />&nbsp;&nbsp;
+<img src="images/badge_sandiego.svg" alt="Hosted in San Diego" height="40" />&nbsp;&nbsp;
+<a href="mailto:shawn.jx.cai@gmail.com"><img src="images/badge_email.svg" alt="Contact me: email" height="40" /></a>
+</div>

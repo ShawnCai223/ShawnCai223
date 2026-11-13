@@ -1,0 +1,21 @@
+<svg viewBox="0 0 88 31" width="176" height="62" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4f4f4"/><stop offset="0.5" stop-color="#d4d4d4"/><stop offset="1" stop-color="#a8a8a8"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="87" height="30" fill="url(#silver)" stroke="#555"/>
+  <path d="M1.5,29.5 V1.5 H86.5" fill="none" stroke="#fff"/>
+  <!-- little classic computer -->
+  <g transform="translate(5 4)">
+    <rect x="0" y="0" width="18" height="21" rx="2" fill="#efe9d8" stroke="#555" stroke-width="0.8"/>
+    <rect x="3" y="3" width="12" height="9" rx="1" fill="#1d2b44"/>
+    <path d="M6.5,6.5 v1 M11.5,6.5 v1 M6.5,9.5 q2.5,1.5 5,0" stroke="#7fe0ff" stroke-width="0.9" fill="none" stroke-linecap="round">
+      <animate attributeName="stroke" values="#7fe0ff;#7fe0ff;#ff9de2;#7fe0ff" keyTimes="0;0.7;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <rect x="4" y="15" width="7" height="1.2" fill="#555"/>
+    <rect x="2" y="21" width="14" height="2" fill="#c9c2ad" stroke="#555" stroke-width="0.6"/>
+  </g>
+  <text x="56" y="13" text-anchor="middle" font-family="Verdana,Tahoma,sans-serif" font-size="7" font-weight="bold" fill="#333">MADE ON</text>
+  <text x="56" y="24" text-anchor="middle" font-family="Verdana,Tahoma,sans-serif" font-size="10" font-weight="bold" fill="#000080">APPLE</text>
+</svg>

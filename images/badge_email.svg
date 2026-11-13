@@ -1,0 +1,23 @@
+<svg viewBox="0 0 88 31" width="176" height="62" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2a6b"/><stop offset="1" stop-color="#070b26"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="87" height="30" fill="url(#navy)" stroke="#000"/>
+  <path d="M1.5,29.5 V1.5 H86.5" fill="none" stroke="#5a6ab8"/>
+  <!-- envelope that bobs, with a heart popping out -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -1.5; 0 0" dur="1.2s" repeatCount="indefinite"/>
+    <rect x="6" y="9" width="20" height="14" rx="1" fill="#ffffff" stroke="#999" stroke-width="0.6"/>
+    <path d="M6,9 L16,17 L26,9" fill="none" stroke="#999" stroke-width="0.8"/>
+    <path d="M16,7 c-1.2,-1.6 -3.6,-0.4 -2.4,1.4 l2.4,2.4 l2.4,-2.4 c1.2,-1.8 -1.2,-3 -2.4,-1.4 z" fill="#ff4d8d">
+      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 2; 0 -2; 0 -4" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="57" y="13" text-anchor="middle" font-family="Verdana,Tahoma,sans-serif" font-size="6.5" font-weight="bold" fill="#7fe0ff">CONTACT ME</text>
+  <text x="57" y="24" text-anchor="middle" font-family="Verdana,Tahoma,sans-serif" font-size="9.5" font-weight="bold" fill="#ffee55">EMAIL
+    <animate attributeName="fill" values="#ffee55;#ffee55;#ffffff;#ffee55" keyTimes="0;0.6;0.8;1" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+</svg>

@@ -1,0 +1,22 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .t {
+          width: 800px; height: 50px; line-height: 50px; text-align: center; white-space: nowrap;
+          font-family: "Comic Sans MS", "Comic Sans", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, cursive, sans-serif;
+          font-size: 22px; font-weight: bold; color: limegreen;
+          animation: glow 2s ease-in-out infinite;
+        }
+        @keyframes glow { 0%,100% { color: limegreen; } 50% { color: #ffee00; } }
+        @media (prefers-color-scheme: light) {
+          .t { animation-name: glow-light; }
+        }
+        @keyframes glow-light { 0%,100% { color: #1a9e1a; } 50% { color: #ff7a00; } }
+        .star { display: inline-block; animation: spin 3s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+      </style>
+      <div class="t"><span class="star">☀️</span> Thanks for stopping by, keep in touch! <span class="star">☀️</span></div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 88 31" width="176" height="62" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5b2a86"/><stop offset="0.55" stop-color="#e8467c"/><stop offset="1" stop-color="#ffb347"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="86" height="29"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="87" height="30" fill="url(#sunset)" stroke="#2b1240"/>
+  <g clip-path="url(#frame)">
+    <!-- sun slowly setting -->
+    <circle cx="16" cy="24" r="7" fill="#ffe066">
+      <animate attributeName="cy" values="22;26;22" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <!-- ocean -->
+    <rect x="0" y="25" width="88" height="6" fill="#2a3f8f"/>
+    <path d="M0,25.5 q3,-1 6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0 t6,0" fill="none" stroke="#9fd3ff" stroke-width="0.7">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-12 0" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+    <!-- palm tree -->
+    <g fill="#2b1240">
+      <path d="M27,26 q1,-9 -1,-17 l1,0 q2.5,8 1.5,17 z"/>
+      <path d="M26.5,9 q-5,-3 -9,1 q4,-2 9,0 z"/>
+      <path d="M26.5,9 q5,-4 9,0 q-4,-1.5 -9,0 z"/>
+      <path d="M26.5,9 q-3,-5 -7,-4 q4,0 7,4 z"/>
+      <path d="M26.5,9 q3,-5 7,-4 q-4,0 -7,4 z"/>
+    </g>
+  </g>
+  <text x="59" y="12" text-anchor="middle" font-family="Verdana,Tahoma,sans-serif" font-size="6.5" font-weight="bold" fill="#ffe9f2">HOSTED IN</text>
+  <text x="59" y="22" text-anchor="middle" font-family="Verdana,Tahoma,sans-serif" font-size="8.5" font-weight="bold" fill="#ffffff">SAN DIEGO</text>
+</svg>

@@ -1,0 +1,76 @@
+# Guestbook: renders the 5 latest comments on the issue titled "Guestbook" into README.md.
+# Idea from https://github.com/BrunnerLivio/brunnerlivio (originally openscript/openscript).
+
+name: Guestbook
+
+on:
+  issue_comment:
+    types: [created, edited, deleted]
+
+permissions:
+  contents: write
+
+jobs:
+  update_guestbook:
+    name: Update guestbook
+    if: ${{ github.event.issue.title == 'Guestbook' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update guestbook from comments
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const truncate = (str, num) => (str.length > num ? str.slice(0, num) + "..." : str);
+            const escapeHtml = (s) =>
+              s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/\|/g, "&#124;");
+
+            const query = `query($owner:String!, $name:String!, $issue_number:Int!) {
+              repository(owner:$owner, name:$name) {
+                issue(number:$issue_number) {
+                  comments(last: 5) {
+                    nodes {
+                      author { avatarUrl(size: 24) login url }
+                      bodyText
+                      createdAt
+                    }
+                  }
+                }
+              }
+            }`;
+            const result = await github.graphql(query, {
+              owner: context.repo.owner,
+              name: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            const comments = result.repository.issue.comments.nodes.filter((c) => c.author).reverse();
+            let table = "<table>\n<tr><th>Name</th><th>Date</th><th>Message</th></tr>\n";
+            if (comments.length === 0) {
+              table += `<tr><td><a href="https://github.com/${context.repo.owner}">${context.repo.owner}</a></td><td>–</td><td>Be the first to sign!</td></tr>\n`;
+            }
+            for (const c of comments) {
+              const text = truncate(escapeHtml(c.bodyText), 125).replace(/(\r\n|\r|\n)/g, "<br />");
+              const date = new Date(c.createdAt).toLocaleDateString("en-US", { timeZone: "America/Los_Angeles" });
+              table += `<tr><td><a href="${c.author.url}"><img width="24" src="${c.author.avatarUrl}" alt="${c.author.login}" /> ${c.author.login}</a></td><td>${date}</td><td>${text}</td></tr>\n`;
+            }
+            table += "</table>\n";
+
+            const fs = require("fs");
+            const readme = fs.readFileSync("README.md", "utf8");
+            const updated = readme.replace(
+              /(<!-- Guestbook -->\n)[\s\S]*?(<!-- \/Guestbook -->)/,
+              `$1${table}$2`
+            );
+            fs.writeFileSync("README.md", updated, "utf8");
+
+      - name: Push guestbook update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" && exit 0
+          git commit -am "✨ update guestbook"
+          git push

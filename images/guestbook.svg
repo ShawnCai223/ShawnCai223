@@ -1,0 +1,26 @@
+<svg fill="none" viewBox="0 0 420 56" width="420" height="56" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wrap {
+          width: 420px; height: 56px;
+          display: flex; align-items: center; justify-content: center;
+          font-family: "Comic Sans MS", "Comic Sans", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, cursive, sans-serif;
+          font-size: 22px;
+        }
+        .pulse { animation: pulse 2.5s ease-in-out infinite; white-space: nowrap; }
+        @keyframes pulse { 0%,100% { transform: scale(0.8); } 50% { transform: scale(1); } }
+        .r { color: #ff004c; } .o { color: #ff9900; } .y { color: #e6c800; }
+        .g { color: #33cc33; } .b { color: #2299ff; } .v { color: #aa44ff; }
+        @media (prefers-color-scheme: light) { .y { color: #d4a000; } .g { color: #1a9e1a; } }
+        .link { color: #539bf5; text-decoration: underline; font-weight: normal; }
+      </style>
+      <div class="wrap"><strong class="pulse">
+        ✍️ <span class="r">S</span><span class="o">i</span><span class="y">g</span><span class="g">n</span>
+        <span class="b">m</span><span class="v">y</span>
+        <span class="r">G</span><span class="o">u</span><span class="y">e</span><span class="g">s</span><span class="b">t</span><span class="v">b</span><span class="r">o</span><span class="o">o</span><span class="y">k</span>
+        <span class="link">(click here!)</span>
+      </strong></div>
+    </div>
+  </foreignObject>
+</svg>
