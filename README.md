@@ -17,7 +17,7 @@
 <img alt="Blue pixels" height="80" src="images/pixels.svg" /></a>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.youtube.com/results?search_query=%E9%BE%8D%E6%8D%B2%E9%A2%A8+G.E.M.+%E9%84%A7%E7%B4%AB%E6%A3%8B"><strong>🎧 My List</strong><br /><br />
+<a href="https://www.youtube.com/results?search_query=%E6%80%9D%E5%87%A1+%E6%9E%97%E5%AE%A5%E5%98%89"><strong>🎧 My List</strong><br /><br />
 <img alt="Spinning record" height="80" src="images/vinyl.svg" /></a>
 </td>
 </tr>

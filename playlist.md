@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-13 | 龍捲風 — G.E.M. 鄧紫棋 -->
+<!-- pick: 2026-11-13 | 思凡 — 林宥嘉 -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -8,9 +8,9 @@
 <table>
 <tr><td align="center" width="460">
 <sub>🎲 SONG OF THE DAY · 2026-11-13</sub>
-<h2>龍捲風</h2>
-<p>G.E.M. 鄧紫棋</p>
-<a href="https://www.youtube.com/results?search_query=%E9%BE%8D%E6%8D%B2%E9%A2%A8+G.E.M.+%E9%84%A7%E7%B4%AB%E6%A3%8B"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<h2>思凡</h2>
+<p>林宥嘉</p>
+<a href="https://www.youtube.com/results?search_query=%E6%80%9D%E5%87%A1+%E6%9E%97%E5%AE%A5%E5%98%89"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -31,8 +31,8 @@
 <tr><td align="right"><sub>09</sub></td><td><b>日落</b></td><td>孫燕姿</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%97%A5%E8%90%BD+%E5%AD%AB%E7%87%95%E5%A7%BF">▶</a></td></tr>
 <tr><td align="right"><sub>10</sub></td><td><b>不安小姐</b></td><td>徐佳瑩</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E4%B8%8D%E5%AE%89%E5%B0%8F%E5%A7%90+%E5%BE%90%E4%BD%B3%E7%91%A9">▶</a></td></tr>
 <tr><td align="right"><sub>11</sub></td><td><b>一二三</b></td><td>田馥甄</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E4%B8%80%E4%BA%8C%E4%B8%89+%E7%94%B0%E9%A6%A5%E7%94%84">▶</a></td></tr>
-<tr><td align="right"><sub>12</sub></td><td><b>龍捲風</b> ⭐</td><td>G.E.M. 鄧紫棋</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E9%BE%8D%E6%8D%B2%E9%A2%A8+G.E.M.+%E9%84%A7%E7%B4%AB%E6%A3%8B">▶</a></td></tr>
-<tr><td align="right"><sub>13</sub></td><td><b>思凡</b></td><td>林宥嘉</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%80%9D%E5%87%A1+%E6%9E%97%E5%AE%A5%E5%98%89">▶</a></td></tr>
+<tr><td align="right"><sub>12</sub></td><td><b>龍捲風</b></td><td>G.E.M. 鄧紫棋</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E9%BE%8D%E6%8D%B2%E9%A2%A8+G.E.M.+%E9%84%A7%E7%B4%AB%E6%A3%8B">▶</a></td></tr>
+<tr><td align="right"><sub>13</sub></td><td><b>思凡</b> ⭐</td><td>林宥嘉</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%80%9D%E5%87%A1+%E6%9E%97%E5%AE%A5%E5%98%89">▶</a></td></tr>
 <tr><td align="right"><sub>14</sub></td><td><b>海浪</b></td><td>deca joins</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%B5%B7%E6%B5%AA+deca+joins">▶</a></td></tr>
 <tr><td align="right"><sub>15</sub></td><td><b>誰</b></td><td>蔡健雅</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E8%AA%B0+%E8%94%A1%E5%81%A5%E9%9B%85">▶</a></td></tr>
 <tr><td align="right"><sub>16</sub></td><td><b>現在那邊是幾點</b></td><td>黃小琥</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%8F%BE%E5%9C%A8%E9%82%A3%E9%82%8A%E6%98%AF%E5%B9%BE%E9%BB%9E+%E9%BB%83%E5%B0%8F%E7%90%A5">▶</a></td></tr>
