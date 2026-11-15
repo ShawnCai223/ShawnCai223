@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-14 | Style — Taylor Swift -->
+<!-- pick: 2026-11-15 | 여행 — 볼빨간사춘기 -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -7,10 +7,10 @@
 
 <table>
 <tr><td align="center" width="460">
-<sub>🎲 SONG OF THE DAY · 2026-11-14</sub>
-<h2>Style</h2>
-<p>Taylor Swift</p>
-<a href="https://www.youtube.com/results?search_query=Style+Taylor+Swift"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<sub>🎲 SONG OF THE DAY · 2026-11-15</sub>
+<h2>여행</h2>
+<p>볼빨간사춘기</p>
+<a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -52,7 +52,7 @@
 <tr><td align="right"><sub>05</sub></td><td><b>Heat Waves</b></td><td>Glass Animals</td><td align="center"><a href="https://www.youtube.com/results?search_query=Heat+Waves+Glass+Animals">▶</a></td></tr>
 <tr><td align="right"><sub>06</sub></td><td><b>ocean eyes</b></td><td>Billie Eilish</td><td align="center"><a href="https://www.youtube.com/results?search_query=ocean+eyes+Billie+Eilish">▶</a></td></tr>
 <tr><td align="right"><sub>07</sub></td><td><b>The Fate of Ophelia</b></td><td>Taylor Swift</td><td align="center"><a href="https://www.youtube.com/results?search_query=The+Fate+of+Ophelia+Taylor+Swift">▶</a></td></tr>
-<tr><td align="right"><sub>08</sub></td><td><b>Style</b> ⭐</td><td>Taylor Swift</td><td align="center"><a href="https://www.youtube.com/results?search_query=Style+Taylor+Swift">▶</a></td></tr>
+<tr><td align="right"><sub>08</sub></td><td><b>Style</b></td><td>Taylor Swift</td><td align="center"><a href="https://www.youtube.com/results?search_query=Style+Taylor+Swift">▶</a></td></tr>
 <tr><td align="right"><sub>09</sub></td><td><b>Vultures</b></td><td>John Mayer</td><td align="center"><a href="https://www.youtube.com/results?search_query=Vultures+John+Mayer">▶</a></td></tr>
 <tr><td align="right"><sub>10</sub></td><td><b>I Know The End</b></td><td>Phoebe Bridgers</td><td align="center"><a href="https://www.youtube.com/results?search_query=I+Know+The+End+Phoebe+Bridgers">▶</a></td></tr>
 <tr><td align="right"><sub>11</sub></td><td><b>Chateau</b></td><td>Angus &amp; Julia Stone</td><td align="center"><a href="https://www.youtube.com/results?search_query=Chateau+Angus+%26+Julia+Stone">▶</a></td></tr>
@@ -69,7 +69,7 @@
 <table width="600">
 <tr><th align="right" width="40">#</th><th align="left" width="300">Song</th><th align="left" width="220">Artist</th><th width="40"></th></tr>
 <tr><td align="right"><sub>01</sub></td><td><b>Liekkas</b></td><td>Sofia Jannok</td><td align="center"><a href="https://www.youtube.com/results?search_query=Liekkas+Sofia+Jannok">▶</a></td></tr>
-<tr><td align="right"><sub>02</sub></td><td><b>여행</b></td><td>볼빨간사춘기</td><td align="center"><a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0">▶</a></td></tr>
+<tr><td align="right"><sub>02</sub></td><td><b>여행</b> ⭐</td><td>볼빨간사춘기</td><td align="center"><a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0">▶</a></td></tr>
 <tr><td align="right"><sub>03</sub></td><td><b>Unravel</b></td><td>TK from 凛として時雨</td><td align="center"><a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8">▶</a></td></tr>
 <tr><td align="right"><sub>04</sub></td><td><b>SPIRAL</b></td><td>She Her Her Hers</td><td align="center"><a href="https://www.youtube.com/results?search_query=SPIRAL+She+Her+Her+Hers">▶</a></td></tr>
 <tr><td align="right"><sub>05</sub></td><td><b>RIDE</b></td><td>HYBS</td><td align="center"><a href="https://www.youtube.com/results?search_query=RIDE+HYBS">▶</a></td></tr>
