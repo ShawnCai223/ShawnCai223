@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-15 | 여행 — 볼빨간사춘기 -->
+<!-- pick: 2026-11-16 | Unravel — TK from 凛として時雨 -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -7,10 +7,10 @@
 
 <table>
 <tr><td align="center" width="460">
-<sub>🎲 SONG OF THE DAY · 2026-11-15</sub>
-<h2>여행</h2>
-<p>볼빨간사춘기</p>
-<a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<sub>🎲 SONG OF THE DAY · 2026-11-16</sub>
+<h2>Unravel</h2>
+<p>TK from 凛として時雨</p>
+<a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -69,8 +69,8 @@
 <table width="600">
 <tr><th align="right" width="40">#</th><th align="left" width="300">Song</th><th align="left" width="220">Artist</th><th width="40"></th></tr>
 <tr><td align="right"><sub>01</sub></td><td><b>Liekkas</b></td><td>Sofia Jannok</td><td align="center"><a href="https://www.youtube.com/results?search_query=Liekkas+Sofia+Jannok">▶</a></td></tr>
-<tr><td align="right"><sub>02</sub></td><td><b>여행</b> ⭐</td><td>볼빨간사춘기</td><td align="center"><a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0">▶</a></td></tr>
-<tr><td align="right"><sub>03</sub></td><td><b>Unravel</b></td><td>TK from 凛として時雨</td><td align="center"><a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8">▶</a></td></tr>
+<tr><td align="right"><sub>02</sub></td><td><b>여행</b></td><td>볼빨간사춘기</td><td align="center"><a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0">▶</a></td></tr>
+<tr><td align="right"><sub>03</sub></td><td><b>Unravel</b> ⭐</td><td>TK from 凛として時雨</td><td align="center"><a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8">▶</a></td></tr>
 <tr><td align="right"><sub>04</sub></td><td><b>SPIRAL</b></td><td>She Her Her Hers</td><td align="center"><a href="https://www.youtube.com/results?search_query=SPIRAL+She+Her+Her+Hers">▶</a></td></tr>
 <tr><td align="right"><sub>05</sub></td><td><b>RIDE</b></td><td>HYBS</td><td align="center"><a href="https://www.youtube.com/results?search_query=RIDE+HYBS">▶</a></td></tr>
 <tr><td align="right"><sub>06</sub></td><td><b>DtMF</b></td><td>Bad Bunny</td><td align="center"><a href="https://www.youtube.com/results?search_query=DtMF+Bad+Bunny">▶</a></td></tr>
