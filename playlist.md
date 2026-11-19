@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-17 | ocean eyes — Billie Eilish -->
+<!-- pick: 2026-11-18 | Chateau — Angus & Julia Stone -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -7,10 +7,10 @@
 
 <table>
 <tr><td align="center" width="460">
-<sub>🎲 SONG OF THE DAY · 2026-11-17</sub>
-<h2>ocean eyes</h2>
-<p>Billie Eilish</p>
-<a href="https://www.youtube.com/results?search_query=ocean+eyes+Billie+Eilish"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<sub>🎲 SONG OF THE DAY · 2026-11-18</sub>
+<h2>Chateau</h2>
+<p>Angus &amp; Julia Stone</p>
+<a href="https://www.youtube.com/results?search_query=Chateau+Angus+%26+Julia+Stone"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -50,12 +50,12 @@
 <tr><td align="right"><sub>03</sub></td><td><b>Where Is My Mind?</b></td><td>Pixies</td><td align="center"><a href="https://www.youtube.com/results?search_query=Where+Is+My+Mind%3F+Pixies">▶</a></td></tr>
 <tr><td align="right"><sub>04</sub></td><td><b>Blinding Lights</b></td><td>The Weeknd</td><td align="center"><a href="https://www.youtube.com/results?search_query=Blinding+Lights+The+Weeknd">▶</a></td></tr>
 <tr><td align="right"><sub>05</sub></td><td><b>Heat Waves</b></td><td>Glass Animals</td><td align="center"><a href="https://www.youtube.com/results?search_query=Heat+Waves+Glass+Animals">▶</a></td></tr>
-<tr><td align="right"><sub>06</sub></td><td><b>ocean eyes</b> ⭐</td><td>Billie Eilish</td><td align="center"><a href="https://www.youtube.com/results?search_query=ocean+eyes+Billie+Eilish">▶</a></td></tr>
+<tr><td align="right"><sub>06</sub></td><td><b>ocean eyes</b></td><td>Billie Eilish</td><td align="center"><a href="https://www.youtube.com/results?search_query=ocean+eyes+Billie+Eilish">▶</a></td></tr>
 <tr><td align="right"><sub>07</sub></td><td><b>The Fate of Ophelia</b></td><td>Taylor Swift</td><td align="center"><a href="https://www.youtube.com/results?search_query=The+Fate+of+Ophelia+Taylor+Swift">▶</a></td></tr>
 <tr><td align="right"><sub>08</sub></td><td><b>Style</b></td><td>Taylor Swift</td><td align="center"><a href="https://www.youtube.com/results?search_query=Style+Taylor+Swift">▶</a></td></tr>
 <tr><td align="right"><sub>09</sub></td><td><b>Vultures</b></td><td>John Mayer</td><td align="center"><a href="https://www.youtube.com/results?search_query=Vultures+John+Mayer">▶</a></td></tr>
 <tr><td align="right"><sub>10</sub></td><td><b>I Know The End</b></td><td>Phoebe Bridgers</td><td align="center"><a href="https://www.youtube.com/results?search_query=I+Know+The+End+Phoebe+Bridgers">▶</a></td></tr>
-<tr><td align="right"><sub>11</sub></td><td><b>Chateau</b></td><td>Angus &amp; Julia Stone</td><td align="center"><a href="https://www.youtube.com/results?search_query=Chateau+Angus+%26+Julia+Stone">▶</a></td></tr>
+<tr><td align="right"><sub>11</sub></td><td><b>Chateau</b> ⭐</td><td>Angus &amp; Julia Stone</td><td align="center"><a href="https://www.youtube.com/results?search_query=Chateau+Angus+%26+Julia+Stone">▶</a></td></tr>
 <tr><td align="right"><sub>12</sub></td><td><b>Replica</b></td><td>The xx</td><td align="center"><a href="https://www.youtube.com/results?search_query=Replica+The+xx">▶</a></td></tr>
 <tr><td align="right"><sub>13</sub></td><td><b>As It Was</b></td><td>Harry Styles</td><td align="center"><a href="https://www.youtube.com/results?search_query=As+It+Was+Harry+Styles">▶</a></td></tr>
 <tr><td align="right"><sub>14</sub></td><td><b>HOT TO GO!</b></td><td>Chappell Roan</td><td align="center"><a href="https://www.youtube.com/results?search_query=HOT+TO+GO%21+Chappell+Roan">▶</a></td></tr>
