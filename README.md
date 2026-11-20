@@ -17,7 +17,7 @@
 <img alt="Blue pixels" height="80" src="images/pixels.svg" /></a>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.youtube.com/results?search_query=Chateau+Angus+%26+Julia+Stone"><strong>🎧 My List</strong><br /><br />
+<a href="https://www.youtube.com/results?search_query=%E9%A3%8E%E7%8A%AC%E5%B0%91%E5%B9%B4%E7%9A%84%E5%A4%A9%E7%A9%BA+%E6%97%85%E8%A1%8C%E5%9B%A2%E4%B9%90%E9%98%9F"><strong>🎧 My List</strong><br /><br />
 <img alt="Spinning record" height="80" src="images/vinyl.svg" /></a>
 </td>
 </tr>
