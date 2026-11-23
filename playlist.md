@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-21 | Replica — The xx -->
+<!-- pick: 2026-11-22 | 臉 — 王菲 -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -7,10 +7,10 @@
 
 <table>
 <tr><td align="center" width="460">
-<sub>🎲 SONG OF THE DAY · 2026-11-21</sub>
-<h2>Replica</h2>
-<p>The xx</p>
-<a href="https://www.youtube.com/results?search_query=Replica+The+xx"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<sub>🎲 SONG OF THE DAY · 2026-11-22</sub>
+<h2>臉</h2>
+<p>王菲</p>
+<a href="https://www.youtube.com/results?search_query=%E8%87%89+%E7%8E%8B%E8%8F%B2"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -21,7 +21,7 @@
 <table width="600">
 <tr><th align="right" width="40">#</th><th align="left" width="300">Song</th><th align="left" width="220">Artist</th><th width="40"></th></tr>
 <tr><td align="right"><sub>01</sub></td><td><b>等等</b></td><td>王菲</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%AD%89%E7%AD%89+%E7%8E%8B%E8%8F%B2">▶</a></td></tr>
-<tr><td align="right"><sub>02</sub></td><td><b>臉</b></td><td>王菲</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E8%87%89+%E7%8E%8B%E8%8F%B2">▶</a></td></tr>
+<tr><td align="right"><sub>02</sub></td><td><b>臉</b> ⭐</td><td>王菲</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E8%87%89+%E7%8E%8B%E8%8F%B2">▶</a></td></tr>
 <tr><td align="right"><sub>03</sub></td><td><b>花的姿態</b></td><td>陳綺貞</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E8%8A%B1%E7%9A%84%E5%A7%BF%E6%85%8B+%E9%99%B3%E7%B6%BA%E8%B2%9E">▶</a></td></tr>
 <tr><td align="right"><sub>04</sub></td><td><b>像风一样自由</b></td><td>许巍</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1+%E8%AE%B8%E5%B7%8D">▶</a></td></tr>
 <tr><td align="right"><sub>05</sub></td><td><b>故鄉</b></td><td>許巍</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%95%85%E9%84%89+%E8%A8%B1%E5%B7%8D">▶</a></td></tr>
@@ -56,7 +56,7 @@
 <tr><td align="right"><sub>09</sub></td><td><b>Vultures</b></td><td>John Mayer</td><td align="center"><a href="https://www.youtube.com/results?search_query=Vultures+John+Mayer">▶</a></td></tr>
 <tr><td align="right"><sub>10</sub></td><td><b>I Know The End</b></td><td>Phoebe Bridgers</td><td align="center"><a href="https://www.youtube.com/results?search_query=I+Know+The+End+Phoebe+Bridgers">▶</a></td></tr>
 <tr><td align="right"><sub>11</sub></td><td><b>Chateau</b></td><td>Angus &amp; Julia Stone</td><td align="center"><a href="https://www.youtube.com/results?search_query=Chateau+Angus+%26+Julia+Stone">▶</a></td></tr>
-<tr><td align="right"><sub>12</sub></td><td><b>Replica</b> ⭐</td><td>The xx</td><td align="center"><a href="https://www.youtube.com/results?search_query=Replica+The+xx">▶</a></td></tr>
+<tr><td align="right"><sub>12</sub></td><td><b>Replica</b></td><td>The xx</td><td align="center"><a href="https://www.youtube.com/results?search_query=Replica+The+xx">▶</a></td></tr>
 <tr><td align="right"><sub>13</sub></td><td><b>As It Was</b></td><td>Harry Styles</td><td align="center"><a href="https://www.youtube.com/results?search_query=As+It+Was+Harry+Styles">▶</a></td></tr>
 <tr><td align="right"><sub>14</sub></td><td><b>HOT TO GO!</b></td><td>Chappell Roan</td><td align="center"><a href="https://www.youtube.com/results?search_query=HOT+TO+GO%21+Chappell+Roan">▶</a></td></tr>
 <tr><td align="right"><sub>15</sub></td><td><b>Dancing Queen</b></td><td>ABBA</td><td align="center"><a href="https://www.youtube.com/results?search_query=Dancing+Queen+ABBA">▶</a></td></tr>
