@@ -17,7 +17,7 @@
 <img alt="Blue pixels" height="80" src="images/pixels.svg" /></a>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.youtube.com/results?search_query=%E8%87%89+%E7%8E%8B%E8%8F%B2"><strong>🎧 My List</strong><br /><br />
+<a href="https://www.youtube.com/results?search_query=Blinding+Lights+The+Weeknd"><strong>🎧 My List</strong><br /><br />
 <img alt="Spinning record" height="80" src="images/vinyl.svg" /></a>
 </td>
 </tr>
