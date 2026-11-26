@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-24 | 像风一样自由 — 许巍 -->
+<!-- pick: 2026-11-25 | 故鄉 — 許巍 -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -7,10 +7,10 @@
 
 <table>
 <tr><td align="center" width="460">
-<sub>🎲 SONG OF THE DAY · 2026-11-24</sub>
-<h2>像风一样自由</h2>
-<p>许巍</p>
-<a href="https://www.youtube.com/results?search_query=%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1+%E8%AE%B8%E5%B7%8D"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<sub>🎲 SONG OF THE DAY · 2026-11-25</sub>
+<h2>故鄉</h2>
+<p>許巍</p>
+<a href="https://www.youtube.com/results?search_query=%E6%95%85%E9%84%89+%E8%A8%B1%E5%B7%8D"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -23,8 +23,8 @@
 <tr><td align="right"><sub>01</sub></td><td><b>等等</b></td><td>王菲</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%AD%89%E7%AD%89+%E7%8E%8B%E8%8F%B2">▶</a></td></tr>
 <tr><td align="right"><sub>02</sub></td><td><b>臉</b></td><td>王菲</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E8%87%89+%E7%8E%8B%E8%8F%B2">▶</a></td></tr>
 <tr><td align="right"><sub>03</sub></td><td><b>花的姿態</b></td><td>陳綺貞</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E8%8A%B1%E7%9A%84%E5%A7%BF%E6%85%8B+%E9%99%B3%E7%B6%BA%E8%B2%9E">▶</a></td></tr>
-<tr><td align="right"><sub>04</sub></td><td><b>像风一样自由</b> ⭐</td><td>许巍</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1+%E8%AE%B8%E5%B7%8D">▶</a></td></tr>
-<tr><td align="right"><sub>05</sub></td><td><b>故鄉</b></td><td>許巍</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%95%85%E9%84%89+%E8%A8%B1%E5%B7%8D">▶</a></td></tr>
+<tr><td align="right"><sub>04</sub></td><td><b>像风一样自由</b></td><td>许巍</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1+%E8%AE%B8%E5%B7%8D">▶</a></td></tr>
+<tr><td align="right"><sub>05</sub></td><td><b>故鄉</b> ⭐</td><td>許巍</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%95%85%E9%84%89+%E8%A8%B1%E5%B7%8D">▶</a></td></tr>
 <tr><td align="right"><sub>06</sub></td><td><b>私奔</b></td><td>鄭鈞</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%A7%81%E5%A5%94+%E9%84%AD%E9%88%9E">▶</a></td></tr>
 <tr><td align="right"><sub>07</sub></td><td><b>程艾影</b></td><td>赵雷</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%A8%8B%E8%89%BE%E5%BD%B1+%E8%B5%B5%E9%9B%B7">▶</a></td></tr>
 <tr><td align="right"><sub>08</sub></td><td><b>风犬少年的天空</b></td><td>旅行团乐队</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E9%A3%8E%E7%8A%AC%E5%B0%91%E5%B9%B4%E7%9A%84%E5%A4%A9%E7%A9%BA+%E6%97%85%E8%A1%8C%E5%9B%A2%E4%B9%90%E9%98%9F">▶</a></td></tr>
