@@ -1,4 +1,4 @@
-<!-- pick: 2026-11-26 | Unravel — TK from 凛として時雨 -->
+<!-- pick: 2026-11-27 | 日落 — 孫燕姿 -->
 <div align="center">
   <img src="images/vinyl.svg" height="90" alt="Spinning record" />
   <h1>🎧 My List</h1>
@@ -7,10 +7,10 @@
 
 <table>
 <tr><td align="center" width="460">
-<sub>🎲 SONG OF THE DAY · 2026-11-26</sub>
-<h2>Unravel</h2>
-<p>TK from 凛として時雨</p>
-<a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
+<sub>🎲 SONG OF THE DAY · 2026-11-27</sub>
+<h2>日落</h2>
+<p>孫燕姿</p>
+<a href="https://www.youtube.com/results?search_query=%E6%97%A5%E8%90%BD+%E5%AD%AB%E7%87%95%E5%A7%BF"><img src="images/play_button.svg" height="40" alt="Play on YouTube" /></a>
 <br /><br />
 </td></tr>
 </table>
@@ -28,7 +28,7 @@
 <tr><td align="right"><sub>06</sub></td><td><b>私奔</b></td><td>鄭鈞</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%A7%81%E5%A5%94+%E9%84%AD%E9%88%9E">▶</a></td></tr>
 <tr><td align="right"><sub>07</sub></td><td><b>程艾影</b></td><td>赵雷</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E7%A8%8B%E8%89%BE%E5%BD%B1+%E8%B5%B5%E9%9B%B7">▶</a></td></tr>
 <tr><td align="right"><sub>08</sub></td><td><b>风犬少年的天空</b></td><td>旅行团乐队</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E9%A3%8E%E7%8A%AC%E5%B0%91%E5%B9%B4%E7%9A%84%E5%A4%A9%E7%A9%BA+%E6%97%85%E8%A1%8C%E5%9B%A2%E4%B9%90%E9%98%9F">▶</a></td></tr>
-<tr><td align="right"><sub>09</sub></td><td><b>日落</b></td><td>孫燕姿</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%97%A5%E8%90%BD+%E5%AD%AB%E7%87%95%E5%A7%BF">▶</a></td></tr>
+<tr><td align="right"><sub>09</sub></td><td><b>日落</b> ⭐</td><td>孫燕姿</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E6%97%A5%E8%90%BD+%E5%AD%AB%E7%87%95%E5%A7%BF">▶</a></td></tr>
 <tr><td align="right"><sub>10</sub></td><td><b>不安小姐</b></td><td>徐佳瑩</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E4%B8%8D%E5%AE%89%E5%B0%8F%E5%A7%90+%E5%BE%90%E4%BD%B3%E7%91%A9">▶</a></td></tr>
 <tr><td align="right"><sub>11</sub></td><td><b>一二三</b></td><td>田馥甄</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E4%B8%80%E4%BA%8C%E4%B8%89+%E7%94%B0%E9%A6%A5%E7%94%84">▶</a></td></tr>
 <tr><td align="right"><sub>12</sub></td><td><b>龍捲風</b></td><td>G.E.M. 鄧紫棋</td><td align="center"><a href="https://www.youtube.com/results?search_query=%E9%BE%8D%E6%8D%B2%E9%A2%A8+G.E.M.+%E9%84%A7%E7%B4%AB%E6%A3%8B">▶</a></td></tr>
@@ -70,7 +70,7 @@
 <tr><th align="right" width="40">#</th><th align="left" width="300">Song</th><th align="left" width="220">Artist</th><th width="40"></th></tr>
 <tr><td align="right"><sub>01</sub></td><td><b>Liekkas</b></td><td>Sofia Jannok</td><td align="center"><a href="https://www.youtube.com/results?search_query=Liekkas+Sofia+Jannok">▶</a></td></tr>
 <tr><td align="right"><sub>02</sub></td><td><b>여행</b></td><td>볼빨간사춘기</td><td align="center"><a href="https://www.youtube.com/results?search_query=%EC%97%AC%ED%96%89+%EB%B3%BC%EB%B9%A8%EA%B0%84%EC%82%AC%EC%B6%98%EA%B8%B0">▶</a></td></tr>
-<tr><td align="right"><sub>03</sub></td><td><b>Unravel</b> ⭐</td><td>TK from 凛として時雨</td><td align="center"><a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8">▶</a></td></tr>
+<tr><td align="right"><sub>03</sub></td><td><b>Unravel</b></td><td>TK from 凛として時雨</td><td align="center"><a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8">▶</a></td></tr>
 <tr><td align="right"><sub>04</sub></td><td><b>SPIRAL</b></td><td>She Her Her Hers</td><td align="center"><a href="https://www.youtube.com/results?search_query=SPIRAL+She+Her+Her+Hers">▶</a></td></tr>
 <tr><td align="right"><sub>05</sub></td><td><b>RIDE</b></td><td>HYBS</td><td align="center"><a href="https://www.youtube.com/results?search_query=RIDE+HYBS">▶</a></td></tr>
 <tr><td align="right"><sub>06</sub></td><td><b>DtMF</b></td><td>Bad Bunny</td><td align="center"><a href="https://www.youtube.com/results?search_query=DtMF+Bad+Bunny">▶</a></td></tr>

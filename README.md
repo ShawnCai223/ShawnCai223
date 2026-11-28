@@ -17,7 +17,7 @@
 <img alt="Blue pixels" height="80" src="images/pixels.svg" /></a>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://www.youtube.com/results?search_query=Unravel+TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8"><strong>🎧 My List</strong><br /><br />
+<a href="https://www.youtube.com/results?search_query=%E6%97%A5%E8%90%BD+%E5%AD%AB%E7%87%95%E5%A7%BF"><strong>🎧 My List</strong><br /><br />
 <img alt="Spinning record" height="80" src="images/vinyl.svg" /></a>
 </td>
 </tr>
